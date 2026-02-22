@@ -47,5 +47,8 @@ coverage/
 .DS_Store
 *.pem
 
+# Claude local settings
+.claude/settings.local.json
+
 # IntelliJ
 .idea
